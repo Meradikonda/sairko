@@ -1,3 +1,4 @@
+#test revert
 import socket
 import sys 
 import os 
@@ -8,8 +9,19 @@ import datetime
 import math
 import time 
 import random
-
+#test revert
 # global comm info
+#test revert
+#test revert
+#test revert
+#test revert
+#test revert
+#test revert
+#test revert
+#test revert
+#test revert
+#test revert
+
 PEER_CONN_INFO = 'Peer has connected'           # replaces P2P_CHAT_PY_PROTOCOL_HI
 PEER_CONN_INFO_ACK = 'PEER CONN ACKD'
 PEER_IP_DETS = 'Peer server details'
